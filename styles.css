@@ -67,7 +67,7 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 80px;
+    padding-top: 10%;
 }
 
 footer{
@@ -84,7 +84,6 @@ footer p a {
 }
 
 .welcome {
-    height: 100vh;
     display:flex;
     flex-direction: column;
     justify-content: center;
