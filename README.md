@@ -2,4 +2,4 @@
 
 This is my portfolio about me, my activities and projects.
 
-Como to visit at https://sarah-hs.github.io.
+Come to visit at https://sarah-hs.github.io.
